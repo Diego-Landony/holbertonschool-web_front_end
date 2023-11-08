@@ -1,1 +1,1 @@
-### CSS_advanced
+Advanced CSS project for digital agency website
